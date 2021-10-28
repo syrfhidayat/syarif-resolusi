@@ -1,4 +1,4 @@
 Syarif Resolusi
 - Konsisten untuk belajar pemrograman Python
 - Membuat program aplikasi web yang di dalamnya ada Machine Learning dengan menggunakan bahasa Python
-- Membuat dan merancang program Robotics
+- Membuat Vlog
