@@ -1,0 +1,3 @@
+Syarif Resolusi
+- Konsisten untuk belajar pemrograman Python
+- Membuat program aplikasi web yang di dalamnya ada Machine Learning dengan menggunakan bahasa Python
